@@ -1,0 +1,9 @@
+bloodgroup,status,packets
+A+,available,10
+A-,available,7
+B+,available,8
+B-,available,15
+AB+,available,10
+AB-,available,5
+O+,available,6
+O-,na,0
